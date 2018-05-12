@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5199
     wikipedia: http://de.wikipedia.org/wiki/Paula_Dehmel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13732#Das-liebe-Nest
 gutenberg_bookshelf:
 - DE Kinderbuch
 - DE Lyrik
