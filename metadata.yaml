@@ -1,0 +1,73 @@
+_repo: Das-liebe-Nest_13732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dehmel, Paula
+    birthdate: 1862
+    deathdate: 1918
+    gutenberg_agent_id: '5199'
+    url: http://www.gutenberg.org/2009/agents/5199
+    wikipedia: http://de.wikipedia.org/wiki/Paula_Dehmel
+description: ''
+gutenberg_bookshelf:
+- DE Kinderbuch
+- DE Lyrik
+gutenberg_issued: '2004-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13732'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Children''s poetry, German'
+- !lcc 'PZ'
+tableOfContents: "Gruß an die Großen\r\nGruß an die Kleinen\r\n\r\n\r\nERSTER TEIL\r\
+  \n\r\n\r\nWunderchen\r\nGeht leise\r\nWittewoll schlafen\r\nFrühstück\r\nSeereise\r\
+  \nSo lala\r\nMein Wagen\r\nKutscher auf dem Knie\r\nEreignis\r\nHeilsprüchel\r\n\
+  Schlimme Geschichte\r\nAustreibung\r\nWenn Rumpumpel brummig ist\r\nDer Pudding\r\
+  \nZwei Mäulchen\r\nMückebold\r\nDas Scherchen\r\nGeschichtchen vom Winde\r\nAnziehliedchen\r\
+  \nDas Lämmechen\r\nDie wilden Beinchen\r\nDer lumpichte Bu\r\nTintenheinz und Plätscherlottchen\r\
+  \nEs regnet\r\nTrösterchen\r\nHäschen in der Grube\r\nHasenspiel\r\nDrei Bäumchen\r\
+  \nSchabernack\r\nAm Abend\r\nGutenachtliedchen\r\nFreund Husch\r\nRumpumpels Geburtstag\r\
+  \nMutters Geburtstag\r\nRumpumpel tanzt\r\nKreiselliedchen\r\nKonzert\r\nDie ersten\
+  \ Höschen\r\nDer kleine Sünder\r\nFlutschpeter\r\nDie Trommelpartie\r\nRumpelreim\r\
+  \nDas Karnickel\r\nLektion\r\nLied des Hühnchens\r\nSo sieht unsre Wirtschaft aus\r\
+  \n\r\n\r\n\r\nZWEITER TEIL\r\n\r\n\r\nDas Haus\r\nMit Trommel und Trab\r\nSiebenschläfer\r\
+  \nOsterlied\r\nMaiwunder\r\nHansel und Gretel\r\nPrinzeßchen\r\nDas große Loch\r\
+  \nZwei Gesellen\r\nWenn's Pfingsten regnet\r\nEine Hühnergeschichte\r\nMarieken\
+  \ und die Küken\r\nKinderküche\r\nEssensregeln\r\nDie böse Mies\r\nPottkieker\r\n\
+  Der Reitersmann\r\nDas richtige Pferd\r\nDer kleine Rekrut\r\nDer Hauptmann\r\n\
+  Abzählreim\r\nFragefritze und die Plappertasche\r\nPlappermündchen\r\nPuppendoktor\r\
+  \nKleiner Einkauf\r\nVaters Geburtstag\r\nDas Himmelsprinzeßchen\r\nWindfreude\r\
+  \nLied vom Monde\r\nWeihnachtsschnee\r\nKnecht Ruprecht in Nöten\r\nFrohe Botschaft\r\
+  \nDer liebe Weihnachtsmann\r\nSankt Niklas' Auszug\r\nBescheidene Frage\r\n\r\n\r\
+  \n\r\nDRITTER TEIL\r\n\r\n\r\nWidmung\r\nSonne\r\nMarienlied\r\nKorsisches Wiegenlied\r\
+  \nKönigskind\r\nHeimweh\r\nElfenreigen\r\nWiegenmärchen\r\nTraumballade\r\nMutter\
+  \ Hule\r\nEin Singsang vom Rheine\r\nBadeballade\r\nDer Teufel und die Katz\r\n\
+  Der Esel und die Löwenhaut\r\nEin Spatzengespräch\r\nDrei Koboldstreiche\r\nSpuk\r\
+  \nDer Märchenkönig und sein Töchterlein\r\nWeihnachtsgang\r\nWeihnachtsbesuch\r\n\
+  König Kuchen und Königin Schokolade\r\nDer erste Mai\r\nWetterwunsch\r\nHammerliedchen\r\
+  \nIm Sonnenschein\r\nWanderlied\r\n\r\n\r\n\r\nVIERTER TEIL\r\n\r\nSpruch fürs Leben\r\
+  \nAllerlei Rätsel:\r\n    1) Windmühle\r\n    2) Die ersten Zähnchen\r\n    3) Sau-er-kraut\r\
+  \n    4) Spitzbube\r\n    5) Stiefelknecht\r\n    6) Rebe--Eber; Recke--Ecker; Rotte--Otter;\
+  \ Rinde--Inder; Rabe--aber\r\n    7) Matrone, Makrone, Marone\r\n    8) Gitter,\
+  \ Rettig\r\n    9) Vielleicht\r\n    10) Zeit\r\n    11) Schafwolle und Rindleder\r\
+  \n    12) Versohlt\r\n    13) Überlegen\r\n    14) Saumselig\r\n    15) Verzogen\r\
+  \n    16) Drosselbart\r\n    17) Nachbarschaft\r\n    18) Der Rat\r\n    19) Besessen\r\
+  \n    20) Ausschlag\r\n    21) Fassung\r\n    22) Eingefallen\r\n    23) Druckfehlerteufel\r\
+  \n    24) Feuerwasser\r\n    25) Wasserscheide, Scheiderwasser\r\n    26) Winde\r\
+  \n    27) Leiter\r\n    28) Welle\r\n    29) Donnerkeile\r\n    30) Linsengericht\r\
+  \n    31) A, Horn, A horn\r\n    32) Aufschwung; Entfaltung; Sieg; Frieden\r\n \
+  \   33) Retter\r\n    34) Verwachsen\r\n    35) Verschieden\r\n    36) Romantik\r\
+  \n    37) Mode, modern\r\n    38) Die Tinte\r\n    39) Das Licht\r\n    40) Die\
+  \ Zahl\r\n    41) Die Stadt\r\n    42) Geistreich\r\n    43) Gerecht, Same, Gerechtsame\r\
+  \n    44) Gedankenübertragung\r\nPolterabendgedicht\r\nHochzeitsgedicht\r\nNeujahrsspiel\r\
+  \nKartoffelkomödie: Räuber und Prinzessin\r\nKasperle und der Krieg"
+title: Das liebe Nest
+url: http://www.gutenberg.org/ebooks/13732
